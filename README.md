@@ -1,3 +1,5 @@
+Play the game live: https://christlc.github.io/santagame2025/
+
 🎅 Santa Stacker - World Tour
 
 Santa Stacker is a festive, single-tap arcade game built entirely in a single HTML file. Help Santa stack gifts as high as possible against the skylines of famous cities, unlock sky secrets, and share holiday greetings with friends!
